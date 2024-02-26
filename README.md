@@ -6,7 +6,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/R4F4ELZ1N/)
 
 ![R4z GitHub stats](https://github-readme-stats.vercel.app/api?username=DevR4z&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevR4z&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevR4z&layout=donut&icons=true&theme=radical&)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias do meu dia a dia
 
@@ -15,3 +15,5 @@
  <img align=center alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
  <img align=center alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
+
+![Snake animation](https://github.com/DevR4z)
