@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Rafael Abranches  👑🇧🇷
-#### ✨ Apaixonado em programação, jogos e esportes ✨
-##### 📖 Estudando Python <br/> 📨 Contate-me no email: rf00101@gmail.com
+#### ✨ Apaixonado em programação, analise, jogos e esportes ✨
+##### 📖 Estudando para ser Analista de Dados <br/> 📨 Contate-me no email: rf00101@gmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r4f4elz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ferreira-abranches-308514247/)
