@@ -3,11 +3,7 @@
 #### ✨ Apaixonado em programação, analise, jogos e esportes ✨
 ##### 📖 Estudando Front-End <br/> 📨 Contate-me no email: rf00101@gmail.com
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r4f4elz/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-ferreira-abranches-308514247/)
-
-![R4z GitHub stats](https://github-readme-stats.vercel.app/api?username=DevR4z&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevR4z&layout=donut&icons=true&theme=radical&)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias do meu dia a dia
 
